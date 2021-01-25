@@ -1,2 +1,4 @@
-# Learning Go Lang
-My Resource Repo 
+#Learn Go lang
+
+Resources : 
+gobyexample.com

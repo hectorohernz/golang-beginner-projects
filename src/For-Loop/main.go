@@ -9,7 +9,17 @@ func main() {
 		i = i + 1
 	}
 
-	for j := 7; j <= 9; j++ {
+	for {
+		fmt.Println("Loop")
+		break
+	}
+
+	for j := 4; j <= 7; j++ {
 		fmt.Println(j)
+	}
+
+	 x int32 = 1
+	for x <= 3; x++ {
+		fmt.Println(x)
 	}
 }
